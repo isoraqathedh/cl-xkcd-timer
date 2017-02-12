@@ -10,4 +10,3 @@
   :serial t
   :components ((:file "package")
                (:file "cl-xkcd-timer")))
-
